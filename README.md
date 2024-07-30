@@ -31,7 +31,7 @@
 
 ###
 
-<img align="left" height="150" src="https://giffiles.alphacoders.com/218/218177.gif"  />
+<img align="right" height="200" src="https://giffiles.alphacoders.com/218/218177.gif"  />
 
 ###
 
